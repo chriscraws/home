@@ -84,7 +84,6 @@ source $ZSH/oh-my-zsh.sh
 
 alias chrome="open -a 'Google Chrome'"
 
-
 # Enable vi-mode for zsh
 #bindkey -v
 
